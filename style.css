@@ -577,13 +577,12 @@ a[data-lightbox]:hover img {
 }
 
 .lightbox-caption {
-    padding: 20px;
+    padding: 40px;
     color: #FFF;
     background: rgba(0, 0, 0, .5);
-    position: absolute;
+    position: relative;
     left: 15px;
-    right: 15px;
-    bottom: 5px;
+    right: 15px;F
 }
 
 .close-lightbox {
@@ -705,7 +704,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 3px;
     line-height: 1.4em;
 }
 
@@ -777,37 +776,38 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color:rgb(151, 125, 10);
 }
 
 .tc-white {
-    color: white!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background:rgb(122, 99, 3);
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #76afc0!important;
     color: #FFFFFF!important;
 }
 
 .ltc-white {
     color: #FFFFFF!important;
 }
-
+F
 .ltc-white:hover {
     color: #cccccc!important;
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color:rgb(104, 86, 8);
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: black;
+    font-weight: bold;
 }
 
 .icon-dark-slate-blue {
