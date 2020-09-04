@@ -802,11 +802,11 @@ F
 }
 
 .ltc-atomic-tangerine {
-    color:rgb(104, 86, 8);
+    color:rgb(192, 10, 95);
 }
 
 .ltc-atomic-tangerine:hover {
-    color: black;
+    color: rgb(131, 24, 24);
     font-weight: bold;
 }
 
